@@ -1,4 +1,6 @@
 <h2>Apache Configuration Builder</h2>
+![Apache Configuration Builder](https://raw.githubusercontent.com/ajwhite/Apache-Configuration-Builder/master/ApacheConfigurationBuilder.gif)
+
 
 <h4>Instructions:</h4>
 <p>This works best when it is placed in the root of your development folder that contains your project directories</p>
